@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/mypc/static/css/main.837ce2ae.chunk.css",
-    "main.js": "/mypc/static/js/main.c3b8be24.chunk.js",
-    "main.js.map": "/mypc/static/js/main.c3b8be24.chunk.js.map",
-    "runtime-main.js": "/mypc/static/js/runtime-main.45a2e3a1.js",
-    "runtime-main.js.map": "/mypc/static/js/runtime-main.45a2e3a1.js.map",
-    "static/js/2.437383e7.chunk.js": "/mypc/static/js/2.437383e7.chunk.js",
-    "static/js/2.437383e7.chunk.js.map": "/mypc/static/js/2.437383e7.chunk.js.map",
-    "static/js/3.361ed45c.chunk.js": "/mypc/static/js/3.361ed45c.chunk.js",
-    "static/js/3.361ed45c.chunk.js.map": "/mypc/static/js/3.361ed45c.chunk.js.map",
-    "index.html": "/mypc/index.html",
-    "static/css/main.837ce2ae.chunk.css.map": "/mypc/static/css/main.837ce2ae.chunk.css.map",
-    "static/js/2.437383e7.chunk.js.LICENSE.txt": "/mypc/static/js/2.437383e7.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/mypc/static/media/logo.6ce24c58.svg"
+    "main.css": "/Vivo-Travel/static/css/main.837ce2ae.chunk.css",
+    "main.js": "/Vivo-Travel/static/js/main.c3b8be24.chunk.js",
+    "main.js.map": "/Vivo-Travel/static/js/main.c3b8be24.chunk.js.map",
+    "runtime-main.js": "/Vivo-Travel/static/js/runtime-main.fbabf902.js",
+    "runtime-main.js.map": "/Vivo-Travel/static/js/runtime-main.fbabf902.js.map",
+    "static/js/2.437383e7.chunk.js": "/Vivo-Travel/static/js/2.437383e7.chunk.js",
+    "static/js/2.437383e7.chunk.js.map": "/Vivo-Travel/static/js/2.437383e7.chunk.js.map",
+    "static/js/3.361ed45c.chunk.js": "/Vivo-Travel/static/js/3.361ed45c.chunk.js",
+    "static/js/3.361ed45c.chunk.js.map": "/Vivo-Travel/static/js/3.361ed45c.chunk.js.map",
+    "index.html": "/Vivo-Travel/index.html",
+    "static/css/main.837ce2ae.chunk.css.map": "/Vivo-Travel/static/css/main.837ce2ae.chunk.css.map",
+    "static/js/2.437383e7.chunk.js.LICENSE.txt": "/Vivo-Travel/static/js/2.437383e7.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/Vivo-Travel/static/media/logo.6ce24c58.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.45a2e3a1.js",
+    "static/js/runtime-main.fbabf902.js",
     "static/js/2.437383e7.chunk.js",
     "static/css/main.837ce2ae.chunk.css",
     "static/js/main.c3b8be24.chunk.js"
