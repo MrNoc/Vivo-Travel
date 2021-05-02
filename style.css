@@ -1,0 +1,363 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap');
+	@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;500;600;700;800&display=swap');
+		body {
+			Margin: 0;
+			padding: 0;
+			font-family: 'Trebuchet MS';
+			font-size: 12pt;
+		    color: #78787c;
+		}
+
+		table {
+			border-spacing: 0;
+		}
+
+		u {
+			cursor: pointer;
+			text-decoration: none;
+			opacity: 1.5;
+			-webkit-transition: 0.40s all ease-in-out;
+			-moz-transition: 0.40s all ease-in-out;
+			-o-transition: 0.40s all ease-in-out;
+			transition: 0.40s all ease-in-out;
+		}
+
+		strong {
+			color: #7124a5;
+		}
+
+		u:hover {
+			opacity: 0.8;
+		}
+
+		td {
+			padding: 0;
+		}
+
+		img {
+			border: 0;
+		}
+        .vivo-content {
+            display: flex;
+			flex-direction: column;
+        }
+        #vivo-logo {
+            max-width: 34px;
+            padding: 20px 0px 0px 20px;
+        }
+        #vivo-nome {
+            padding: 0px 0px 0px 15px;
+            width:39px;
+        }
+        .introducao {
+            color: #7124a5;
+			text-align: left;
+            font-size: 16px;
+        }
+        .introducao h1 {
+            border-spacing: 0;
+            margin: 120px 0px 0px 10px;
+            width:200px;
+        }
+        .introducao h2 {
+            font-weight: 400;
+            margin: 0px 0px 60px 10px; width:200px;
+        }
+        #estatua{
+            padding:50px 0px 0px 96px;
+        }
+
+        .apresentacao{
+            width: 100%;
+            border-spacing: 0;
+            line-height: 18pt;
+            margin: 0 auto;
+            font-size: 11pt;
+            text-align: left;
+            padding: 0px 65px 0px 65px;
+        }
+
+        .planos{
+            display: flex;margin-left: 73px;
+        }
+
+        .plano-atual{
+            padding-left: 23px;
+            width:350px;
+            line-height:24px;
+            margin-top: 10px;
+        }
+        .plano-atual .content{
+            padding-left: 23px;
+            width:350px;
+            line-height:24px;
+            margin-top: 10px;
+        }
+        .plano-atual h3{
+            margin: 0 auto; color:#7124a5; font-size: 15px;
+        }
+        .plano-atual p{
+            margin: 0 auto; 
+        }
+        .plano-novo{
+            display: flex; margin-top: 25px;
+        }
+        .plano-novo .content {
+            padding-left: 23px;
+            width:340px;
+            line-height:24px;
+            margin-top: 10px;
+        }
+        .plano-novo h3{
+            margin: 0 auto; color:#7124a5; font-size: 15px;
+        }
+        .plano-novo p{
+            margin: 0 auto; 
+        }
+
+        .saiba-mais-box {  
+            border: 1px solid #7124a5;
+            margin-top: 20px;
+            width:482px;
+            height:107px;
+            font-size: 10pt;
+            text-align: left;
+            justify-content: center;
+            align-items: center;
+        }
+        .saiba-mais-box p{  
+            width:355px;
+            margin-left: 62px;
+        }
+        .vivo-travel {
+            padding:27px 27px 50px 27px;
+            margin-top: 45px;
+            
+        }
+        .vivo-travel .content{
+            border-spacing: 0;
+            width:282px;
+            line-height:15pt;
+            
+        }
+
+        
+        .vivo-travel p{
+            margin-left: 30px;
+        }
+        
+		.beneficios-title {
+			background-color: #e9e9e9;
+			color: #7124a5;
+            font-size: 9pt;
+		}
+        .beneficios-title h2{
+            text-align: center;
+            font-size: 16px;
+            padding-top: 15px;
+        }
+        .beneficios {
+			text-align: center;
+			justify-content: center;
+			display: flex;
+			max-width: 600px;
+            margin: 0 auto; 
+            background-color:#e9e9e9;
+		}
+        
+		button {
+            font-family: 'Trebuchet MS';
+            font-size: 16pt;
+			opacity: 1.5;
+			justify-content: center;
+			align-items: center;
+			width: 328px;
+			height: 54px;
+			border-radius: 40px;
+			color: #e9e9e9;
+			background-color: #7124a5;
+			margin: 55px;
+			z-index: 441;
+			-webkit-transition: 0.40s all ease-in-out;
+			-moz-transition: 0.40s all ease-in-out;
+			-o-transition: 0.40s all ease-in-out;
+			transition: 0.40s all ease-in-out;
+		}
+        
+
+		button:hover {
+			opacity: 0.8;
+			cursor: pointer;
+		}
+
+        .rodape{
+			font-weight: 400;
+			font-size: 15px;
+            line-height: 19px;
+			color: #6b6b6b;
+			border-collapse: separate;
+		}
+        .rodape p{
+			margin: 50px 0px 0px 50px;
+		}
+        .rodape #logo{
+			margin: 60px 50px 0px 0px;
+            width: 22px;
+		}
+        hr {
+            width:95%;
+            margin-bottom: 10px;
+            margin-left: 48px;
+            color: #7124a5;
+        }
+
+        .fim #fibra {
+            margin: 0px 40px 0px 0px;
+        }
+        
+        .rodape .fim{
+            border-collapse: separate;
+            color: #6b6b6b;
+        }
+        .fim p {
+            margin: 0px 0px 0px 50px;
+            font-size: 10px;
+        }
+
+		.wrapper {
+			width: 100%;
+			table-layout: fixed;
+			background-color: #f6f9fc;
+			padding-bottom: 40px;
+		}
+
+		.webkit {
+			max-width: 600px;
+			background-color: #f3f0ff;
+		}
+
+		.outer {
+			margin: 0 auto;
+			width: 100%;
+			max-width: 600px;
+			border-spacing: 0;
+			font-family: sans-serif;
+			color: #4a4a4a;
+		}
+
+		
+
+		.column {
+			padding: 20px;
+		}
+		.column p{
+			width: 79px;
+		}
+
+		
+
+		@media screen and (max-width: 600px) {
+            body {
+                width:600px;
+                
+            }
+            
+        }
+
+        /* Iphone X resolution*/
+		@media screen and (max-width: 414px) {
+            body {
+                width:414px;
+                background-color: #f6f9fc;
+            }
+            .webkit {
+                width: 492px;
+            }
+            #vivo-logo {
+                width: 27px
+            }
+            #vivo-nome {
+                width: 31px
+            }
+            #estatua {
+                max-width:50%;
+                position: absolute;
+                left: 54%;
+                top: 0%;
+            }
+            th.introducao {
+                width: 100%;
+                padding:35%;
+                
+            }
+            .introducao h1 {
+                position:absolute;
+                left: 12%;
+                top: -2%;
+                font-size: 25px;
+                width: 140px;
+            }
+            .introducao h2 {
+                position:absolute;
+                left: 12%;
+                top: 33%;
+                padding-right:200px;
+                font-size: 21px;
+                width: 160px;
+            }
+            .apresentacao{
+                width: 100%;
+            }
+            .planos{
+                display: flex;
+                margin-left: 73px;
+            }
+    
+            .plano-atual{
+                padding-left: 23px;
+                line-height:24px;
+                margin-top: 10px;
+            }
+            .plano-atual .content{
+                padding-left: 23px;
+                width:205px;
+                line-height:24px;
+                margin-top: 10px;
+            }
+            .plano-atual h3{
+                margin: 0 auto;
+                color:#7124a5;
+                 font-size: 15px;
+            }
+            .plano-atual p{
+                margin: 0 auto; 
+            }
+            .saiba-mais-box {  
+                border: 1px solid #7124a5;
+                margin-top: 20px;
+                width:390px;
+                height:107px;
+                font-size: 10pt;
+                text-align: left;
+                justify-content: center;
+                align-items: center;
+            }
+
+            .plano-novo{
+                display: flex;
+                margin-top: 25px;
+            }
+            .plano-novo .content {
+                padding-left: 23px;
+                width:205px;
+                line-height:24px;
+                margin-top: 10px;
+            }
+            .plano-novo h3{
+                margin: 0 auto; color:#7124a5; font-size: 15px;
+            }
+            .plano-novo p{
+                margin: 0 auto; 
+            }
+
+        }
