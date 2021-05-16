@@ -1,1 +1,2 @@
-Modelo de email marketing com layout responsivo, utilizando HTML e CSS puro.
+Modelo de email marketing com layout responsivo em table, utilizando HTML e CSS puro.
+
